@@ -7,6 +7,12 @@
 </p>
 
 ---
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Discord+Profile" alt="Typing SVG" /></h2>
+<h2 align="center">
+<a href="https://discord.com/users/298130883859316736" target="_blank">
+   <img src="https://lanyard.cnrad.dev/api/298130883859316736?theme=black&bg=000000&animated=true&hideDiscrim=false&borderRadius=20px">
+</a>
+---
 <p>
   <img align="center" src="https://lantern.rest/api/v1/users/298130883859316736?svg=1&theme=dark" alt="Lantern" width="850px"/>
 </p>
