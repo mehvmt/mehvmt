@@ -8,10 +8,18 @@
 
 ---
 
+<a align="center">
 <a href="https://discord.com/users/298130883859316736" target="_blank">
    <img src="https://lanyard.cnrad.dev/api/298130883859316736?theme=black&bg=000000&animated=true&hideDiscrim=false&borderRadius=20px">
 </a>
   
+---
+
+<p align="center">
+<p>
+  <img align="center" src="https://lantern.rest/api/v1/users/298130883859316736?svg=1&theme=dark" alt="Lantern" width="850px"/>
+</p>
+
 ---
 
 ### [ConyCord](https://github.com/ConyCord)
@@ -47,11 +55,7 @@
 
 ---
 
-<p>
-  <img align="center" src="https://lantern.rest/api/v1/users/298130883859316736?svg=1&theme=dark" alt="Lantern" width="850px"/>
-</p>
 
----
 
 <h3 align="center">
 </h3>
