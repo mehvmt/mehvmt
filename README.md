@@ -15,7 +15,7 @@
   
 ---
 
-### [ConyCord](https://github.com/ConyCord)
+### [ConyCord](https://github.com/ConyCord) Distribution director and web designer
 
 ### </>
 - **NodeJs**
