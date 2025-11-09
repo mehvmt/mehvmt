@@ -9,8 +9,6 @@
    <img src="https://lanyard.cnrad.dev/api/298130883859316736?theme=black&bg=000000&animated=true&hideDiscrim=false&borderRadius=20px">
 </a>
 
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
